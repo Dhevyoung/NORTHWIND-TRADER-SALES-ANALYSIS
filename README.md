@@ -21,4 +21,8 @@ This is a Power Bi project on **Northwind Trader Analysis**. The project is to a
 - Quick measure
 - Page navigation
 - Filters
+
+## MODELLING
+An automatic relationship was derived by Power BI but i replaced it with the relationship i wanted in order to carry out my analysis
+![]()
   
