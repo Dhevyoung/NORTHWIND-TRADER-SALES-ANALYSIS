@@ -11,4 +11,6 @@ This is a Power Bi project on **Northwind Trader Analysis**. The project is to a
 4. Top 10 products being ordered across the years
 5. Total Transactions made across the years
 6. Total number of products sales closed by each employee
-7. 
+7. Top 5 sales generating companies
+8. Countries with the highest and lowest sales outcome
+9. 
