@@ -9,3 +9,6 @@ This is a Power Bi project on **Northwind Trader Analysis**. The project is to a
 2. Total number of orders placed by each companies
 3. The rate of need of a products across all countries
 4. Top 10 products being ordered across the years
+5. Total Transactions made across the years
+6. Total number of products sales closed by each employee
+7. 
