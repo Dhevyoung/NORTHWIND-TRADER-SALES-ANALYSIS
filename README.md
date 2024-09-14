@@ -7,3 +7,5 @@ This is a Power Bi project on **Northwind Trader Analysis**. The project is to a
 ## PROBLEM STATEMENT
 1. Top 3 Products ordered in high quantity
 2. Total number of orders placed by each companies
+3. The rate of need of a products across all countries
+4. Top 10 products being ordered across the years
