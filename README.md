@@ -13,4 +13,4 @@ This is a Power Bi project on **Northwind Trader Analysis**. The project is to a
 6. Total number of products sales closed by each employee
 7. Top 5 sales generating companies
 8. Countries with the highest and lowest sales outcome
-9. 
+9. Total sales made monthly across all years 
