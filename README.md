@@ -27,4 +27,10 @@ An automatic relationship was derived by Power BI but i replaced it with the rel
 ![Model View](https://github.com/Dhevyoung/NORTHWIND-TRADER-SALES-ANALYSIS/blob/main/Model%20View.png)
 This contains 6 dimension, 1 facts table. Each tables are linked together with a one-to-many relationship 
 
+##VISUALIZATION
+The report comprises 2 pages
+1. Product report
+2. Sales report
+
+
   
