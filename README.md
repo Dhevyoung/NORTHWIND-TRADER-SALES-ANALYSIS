@@ -48,4 +48,13 @@ You can interact with the report [here.](https://app.powerbi.com/groups/me/repor
   -  A visual on the Top 10 products being ordered across the years is shown, with **Racelette Courdavault** coming on top with **54** order count.
   -  Visalization showing the number of countries each products are being sold. **Racelette Courdavault** once again comes out first with a total number of **43** countries
   -   Top 3 Products ordered in high quantity was shown, having  **Racelette Courdavault** as the first and **Gorgonzola Telino** and **Gnocchi di nonna Alice** tied in second place
+
+  ## CONCLUSION
+  - **Racelette Courdavault** was the best selling product across years, having high order rates and covwered proximity in terms of sales across the world
+  - **Margaret Peacock** could be named Employee of the Year, being the employee that closed most product sales.
+  -  **Save-a-lot Market** was the top company buyer across years.
+  -  In 2014, the highest number of Orders, Total Sales and Transaction was made.
+
+    ## RECOMMENDATIONS
+    
   
