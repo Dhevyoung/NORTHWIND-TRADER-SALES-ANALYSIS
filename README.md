@@ -36,6 +36,9 @@ You can interact with the report [here.](https://app.powerbi.com/groups/me/repor
 ## ANALYSIS
 ### Sales analysis
 ![Sales](https://github.com/Dhevyoung/NORTHWIND-TRADER-SALES-ANALYSIS/blob/main/Sales%20Report.png)
+- A slicer containing the years 2013-2015 is used to filter data  **_Getting data for each year could be archieved by choosing the year in question._**
+-A total sales of **$1.35M**, **830** orders and **2.155k** transactions was made across the years.
+-  A visual showing the total number of products sales closed by each employee, with **Margaret Peacock** having the highest number of products, coming out with a total of **75**
 
 
   
