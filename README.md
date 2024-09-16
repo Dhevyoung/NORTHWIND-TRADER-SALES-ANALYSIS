@@ -33,5 +33,9 @@ The report comprises 2 pages
 2. Sales report
 You can interact with the report [here.](https://app.powerbi.com/groups/me/reports/c93b41bf-2d04-4d0e-95cc-d0d4a0e8b2fe/b4090cb21d65b5ba078a?experience=power-bi)
 
+## ANALYSIS
+### Sales analysis
+![Sales](https://github.com/Dhevyoung/NORTHWIND-TRADER-SALES-ANALYSIS/blob/main/Sales%20Report.png)
+
 
   
