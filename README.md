@@ -54,7 +54,8 @@ You can interact with the report [here.](https://app.powerbi.com/groups/me/repor
   - **Margaret Peacock** could be named Employee of the Year, being the employee that closed most product sales.
   -  **Save-a-lot Market** was the top company buyer across years.
   -  In 2014, the highest number of Orders, Total Sales and Transaction was made.
-
-    ## RECOMMENDATIONS
+    
+  ## RECOMMENDATIONS
+  - The marketing team needs to boost the exposure of the bottom 10 performing products and revisit 2014 report to pick up some data that could help better the reports for the subsequent years ahead.
     
   
