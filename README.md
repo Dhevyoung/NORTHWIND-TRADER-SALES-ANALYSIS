@@ -37,8 +37,15 @@ You can interact with the report [here.](https://app.powerbi.com/groups/me/repor
 ### Sales analysis
 ![Sales](https://github.com/Dhevyoung/NORTHWIND-TRADER-SALES-ANALYSIS/blob/main/Sales%20Report.png)
 - A slicer containing the years 2013-2015 is used to filter data  **_Getting data for each year could be archieved by choosing the year in question._**
--A total sales of **$1.35M**, **830** orders and **2.155k** transactions was made across the years.
--  A visual showing the total number of products sales closed by each employee, with **Margaret Peacock** having the highest number of products, coming out with a total of **75**
+- A total sales of **$1.35M**, **830** orders and **2.155k** transactions was made across the years.
+- A visual showing the total number of products sales closed by each employee, with **Margaret Peacock** having the highest number of products, coming out with a total of **75**
+-  Visualization of the Top 5 sales generating companies is presented, with **Save-a-lot Market** coming in fisrt on the scale with a sales count of **116** and **Hungry-Owl All-Night** coming in fifth with a sales count of **55**
+-  Total sales made monthly across all years is also visualized
 
+  ### Product Analysis
+  ![Product](https://github.com/Dhevyoung/NORTHWIND-TRADER-SALES-ANALYSIS/blob/main/Product%20Report.png)
+  -  A slicer containing the years 2013-2015 is used to filter data  **_Getting data for each year could be archieved by choosing the year in question._**
+  -  A visual on the Top 10 products being ordered across the years is shown, with **Racelette Courdavault** coming on top with **54** order count.
+  -  Visalization showing the number of countries each products are being sold. **Racelette Courdavault** once again comes out first with a total number of **43** countries
 
   
