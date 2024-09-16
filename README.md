@@ -47,5 +47,5 @@ You can interact with the report [here.](https://app.powerbi.com/groups/me/repor
   -  A slicer containing the years 2013-2015 is used to filter data  **_Getting data for each year could be archieved by choosing the year in question._**
   -  A visual on the Top 10 products being ordered across the years is shown, with **Racelette Courdavault** coming on top with **54** order count.
   -  Visalization showing the number of countries each products are being sold. **Racelette Courdavault** once again comes out first with a total number of **43** countries
-
+  -   Top 3 Products ordered in high quantity was shown, having  **Racelette Courdavault** as the first and **Gorgonzola Telino** and **Gnocchi di nonna Alice** tied in second place
   
